@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-spanner?activeTab=versions
 
+### [5.18.1](https://github.com/googleapis/nodejs-spanner/compare/v5.18.0...v5.18.1) (2022-04-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency grpc-gcp to ^0.4.0 ([#1603](https://github.com/googleapis/nodejs-spanner/issues/1603)) ([f00b3c6](https://github.com/googleapis/nodejs-spanner/commit/f00b3c65e58c2f36e69a05fef0b3c9bc68a4ee55))
+
 ## [5.18.0](https://github.com/googleapis/nodejs-spanner/compare/v5.17.0...v5.18.0) (2022-04-03)
 
 
